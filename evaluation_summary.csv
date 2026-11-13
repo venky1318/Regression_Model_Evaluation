@@ -1,0 +1,9 @@
+Metric,Value
+Total Dataset Records,20
+Training Records,16
+Testing Records,4
+Input Feature,years_experience
+Target Variable,annual_salary_inr
+Model,Linear Regression
+Mean Absolute Error,5561.38
+Mean Squared Error,31029545.81
